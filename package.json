@@ -1,0 +1,23 @@
+{
+  "name": "e2e-testrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctoLinker/e2e-testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OctoLinker/e2e-testrepo/issues"
+  },
+  "homepage": "https://github.com/OctoLinker/e2e-testrepo#readme",
+  "dependencies": {
+    "got": "^10.6.0",
+    "lodash": "^4.17.15"
+  }
+}
